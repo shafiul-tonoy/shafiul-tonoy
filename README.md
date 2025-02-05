@@ -32,15 +32,15 @@ Tools & Version Control
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/shafiul-tonoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafiul-tonoy&show_icons=true&count_private=true&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/shafiul-tonoy">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafiul-tonoy&theme=dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/shafiul-tonoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiul-tonoy&layout=compact&theme=dark&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/shafiul-tonoy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafiul-tonoy&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/shafiul-tonoy">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafiul-tonoy&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/shafiul-tonoy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiul-tonoy&layout=compact&theme=dark&hide_border=true" />
+  </a>
+</div>
 
