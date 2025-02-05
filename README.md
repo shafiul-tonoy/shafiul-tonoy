@@ -1,17 +1,17 @@
 ![Header](https://i.ibb.co/20k1CMhB/github-header-image.png "Header")
 
 
-## &#x1f4c8; 👋 About Me
+## 👋 About Me
 
 My name is MD.Shafiul Anam and I'm a Frontend developer. I'm from Bangladesh, living in Dhaka.My interests include programming, reading, and traveling. Currently, I’m diving deeper into React, Next.js, and MongoDB to build scalable applications.
 
-## &#x1f4c8; 🚀 Current Activities
+## 🚀 Current Activities
 🔥 Exploring Next.js for better performance & SEO.
 💼 Building Earnify, a micro-task earning platform.
 🌐 Enhancing my movie portal project.
 📖 Learning best practices for scalable frontend architecture.
 
-## &#x1f4c8; 🛠️ Skills
+##  🛠️ Skills
 Frontend
 <p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </p>
 Backend & Database
@@ -19,7 +19,7 @@ Backend & Database
 Tools & Version Control
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
 
-## &#x1f4c8; 🔗 Social Links
+##  🔗 Social Links
 <p align="left"> 
   <a href="https://github.com/shafiul-tonoy"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> 
   <a href="https://www.facebook.com/AnamShafiul/">
