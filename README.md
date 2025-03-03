@@ -1,4 +1,4 @@
-![Header]([https://i.ibb.co/20k1CMhB/github-header-image.png](https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5) "Header")
+![Header]((https://i.ibb.co/20k1CMhB/github-header-image.png) "Header")
 
 
 ## 👋 About Me
